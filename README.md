@@ -1,49 +1,40 @@
-# Customer Support Analysis Dashboard
+# Food Delivery Business Analysis
 
-## 📌 Project Overview
-This project focuses on analyzing customer support performance using data analytics, visualization, and business intelligence techniques. The objective is to identify operational issues, improve customer satisfaction, and generate actionable insights from customer support data.
+## Project Overview
+This project focuses on analyzing food delivery operations using Excel, SQL, and Power BI. The objective is to identify business insights related to customer behavior, revenue trends, delivery performance, restaurant performance, and operational efficiency.
 
+The project demonstrates a complete end-to-end Data Analyst workflow including:
+- Data cleaning
+- SQL analysis
+- KPI generation
+- Dashboard creation
+- Business storytelling
 
-## 🎯 Business Objectives
-- Analyze customer support trends and ticket patterns
-- Monitor resolution performance and escalation rates
-- Improve customer satisfaction and operational efficiency
-- Track agent performance and workload distribution
-- Support business decision-making through dashboards and insights
+---
 
+## Tools & Technologies Used
 
-## 🛠️ Tools & Technologies Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Power BI
-- Jupyter Notebook / Google Colab
 - Excel
+- MySQL
+- Power BI
+- GitHub
 
+---
 
+## Dataset Information
 
-## 📊 Key Analysis Performed
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- Customer Ticket Trend Analysis
-- Resolution Time Analysis
-- Escalation Rate Analysis
-- Agent Performance Tracking
-- Customer Satisfaction Insights
+The dataset contains food delivery order details such as:
+- Order information
+- Customer details
+- Restaurant and cuisine data
+- Delivery performance
+- Ratings and order status
+- Payment methods
+- Weather conditions
 
+# Author
 
-## 🚀 Future Improvements
-- Real-time dashboard integration
-- Predictive analysis for ticket escalation
-- NLP-based customer sentiment analysis
-- Automated reporting pipeline
+ANUSHREE HAZRA
 
-
-
-## 👩‍💻 Author
-Anushree Hazra
-
-GitHub: https://github.com/AnushreeHazra
-LinkedIn: https://linkedin.com/in/anushree-hazra-088b52224
+GitHub:
+https://github.com/AnushreeHazra
